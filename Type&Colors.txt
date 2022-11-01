@@ -1,0 +1,67 @@
+Fonts:-
+
+    Primary(Paragraph): Inter
+    Secondary(Headings etc): ORKNEY or Inter
+    Accent: Lemondays
+
+Colours:
+    PRIMARY: #3fc3c3 180, 68%, 50%
+    ACCENT: #E46317 22, 90%, 50%
+    ALTERNATE ACCENT: #E122E2 300, 85%, 50%
+    Success Accent: #2dc300 106, 100%, 38%
+    Message/Warning Accent: #E6DB14 57, 91%, 49%
+    Error Accent: #CF0B10 359, 95%, 43%
+    
+    
+    
+PRIMARY: 
+    -700: #103131
+    -600: #184949
+    -500: #277A7A
+    -400: #49A5A5
+    -300: #3FC3C3
+    -200: #6FD2D2
+    -100: #A1E6E6
+ACCENT: 
+    -700: #280105
+    -600: #4A2008
+    -500: #72320B
+    -400: #AB4A11
+    -300: #E46317
+    -200: #E77734
+    -100: #F5B996
+NEUTRAL:
+    -700: #202833
+    -600: #404b5a
+    -500: #929fb1
+    -400: #aebecd
+    -300: #bfcad5
+    -200: #d5ede5
+    -100: #f8f9fa
+
+ERROR: 
+    -600: #9B080C
+    -400: #CF0B10
+    -200: #DB484C
+SUCCESS: 
+    -600: #1C7A00
+    -400: #2dc300
+    -200: #62D240
+ERROR: 
+    -600: #9B080C
+    -400: #CF0B10
+    -200: #DB484C
+
+HEX opacity:
+    0% — 00
+    10% — 1A
+    20% — 33
+    30% — 4D
+    40% — 66
+    50% — 80
+    60% — 99
+    70% — B3
+    80% — CC
+    80% — CC
+    90% — E6
+    100% - FF
